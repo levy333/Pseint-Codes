@@ -1,0 +1,2 @@
+La fila siempre se mmueve de izquierda a derecha o viceversa 
+La columna siempre recorre de arriba hacia abajo o viceversa  
